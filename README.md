@@ -1,3 +1,3 @@
 # MACH3CANCER
 
-![alt text](https://github.com/ImperialCollegeLondon/MACH3CANCER/assets/80052894/b60dcc65-7b70-4ce4-a5d9-37c35dc80852)
+![alt text](https://github.com/ImperialCollegeLondon/MACH3CANCER/assets/80052894/75656e3b-c85a-44b1-8f31-e68aac296b86)
